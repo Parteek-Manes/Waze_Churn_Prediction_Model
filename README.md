@@ -11,3 +11,5 @@ Why do users churn?
 When do users churn?
 
 Generate insights that will help Waze optimize the company’s retention strategy, enhance user experience, and make data-driven decisions about product development.
+
+(Waze is a navigation app owned by Alphabet)
