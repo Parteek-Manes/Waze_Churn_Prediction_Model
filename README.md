@@ -3,7 +3,7 @@ Google's Advanced Data Analytics Course Project
 (Waze is a navigation app owned by Alphabet)
 
 Goal: 
-Develop a churn prediction model using Python to help prevent churn and improve user retention, helping Waze make data-driven decisions about product development. An accurate model can also help identify specific factors that contribute to churn and answer questions such as: 
+Develop a churn prediction model using Python to help prevent churn and improve user retention, helping Waze make data-driven decisions about product development. The model helps to identify specific factors that contribute to churn and answer questions such as: 
 
 Who are the users most likely to churn?, Why do users churn? When do users churn? etc.
 
