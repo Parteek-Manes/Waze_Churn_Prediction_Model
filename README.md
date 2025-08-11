@@ -16,6 +16,8 @@ Some insights include:
 Number of driving days had a negative correlation with churn. Users who drove more days of the last month were less likely to churn.
 
 - Some data was erroneous or problematic and yielded unlikely or even impossible values. For ex. driven_km_drives column (Max: 15,420km driven/day, seems physically impossible)
+  
+- Generally, users who churned drove farther and longer in fewer days than retained users. They also used the app about half as many times as retained users over the same period.
 
 
 
